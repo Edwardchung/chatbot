@@ -4,6 +4,8 @@
 .idea
 *.iml
 *.http
-.travis.yml                                                                                                                                 
+.travis.yml
+*.json
+                                                                                                                                
 ~                                                                                                                                  
 ~                               
