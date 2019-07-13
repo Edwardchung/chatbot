@@ -6,23 +6,22 @@ branches:
   only:
     - master
 
-# deploy전에 실행할 명령어
 before_deploy:
   - mkdir -p deploy
   - mv db.json deploy/db.json
 
 deploy:
   - provider: s3
-    access_key_id: $AWS_ACCESS_KEY # Travis CI에서 설정한 AWS_ACCESS_KEY
-    secret_access_key: $AWS_SECRET_KEY # Travis CI에서 설정한 AWS_SECRET_KEY
-    bucket: aws-lambda-chatbot-travisci # S3 bucket 명
+    access_key_id: $AWS_ACCESS_KEY 
+    secret_access_key: $AWS_SECRET_KEY
+    bucket: aws-lambda-chatbot-travisci 
     region: ap-northeast-2
     skip_cleanup: true
-    local_dir: deploy # S3로 올릴 디렉토리 대상 (before_deploy에서 생성함)
+    local_dir: deploy
     acl: public_read
     wait-until-deployed: true
     on:
-      repo: Edwardchung/chatbot # 저장소 이름
+      repo: Edwardchung/chatbot 
       branch: master
 
 after_deploy:
