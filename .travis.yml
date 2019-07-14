@@ -5,6 +5,8 @@ node_js:
 branches:
   only:
     - master
+    
+script: "node src/build.js"
 
 before_deploy:
   - mkdir -p deploy
