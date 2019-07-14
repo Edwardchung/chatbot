@@ -1,16 +1,20 @@
 {
     "laptops": [
         {
-            "LG 키보드 불량": "경영관리팀에 문의주세요."
+            "LG 키보드 불량": "경영관리팀에 문의주세요.",
+            "": ""
         },
         {
-            "LG 나사 빠짐": "담당자 자리로 오시면 처리해드려요~~"
+            "LG 나사 빠짐": "담당자 자리로 오시면 처리해드려요~~",
+            "": ""
         },
         {
-            "Dell G3 무선 네트워크 안잡힘": "https://downloadcenter.intel.com/ko/download/28876/-Windows-10-Wi-Fi-?product=125192 해당 링크에서 driver64bit를 다운로드 받아주세요."
+            "Dell G3 무선 네트워크 안잡힘": "https://downloadcenter.intel.com/ko/download/28876/-Windows-10-Wi-Fi-?product=125192 해당 링크에서 driver64bit를 다운로드 받아주세요.",
+            "": ""
         },
         {
-            "Lenovo 불량": "아르바이트 근무자가 Lenovo 노트북 사용하다가 문제가 발생할 경우 재고로 남아있는 Lenovo 노트북으로 교체해주세요~ 만약 없는 경우 경영관리팀에 문의해주세요."
+            "Lenovo 불량": "아르바이트 근무자가 Lenovo 노트북 사용하다가 문제가 발생할 경우 재고로 남아있는 Lenovo 노트북으로 교체해주세요~ 만약 없는 경우 경영관리팀에 문의해주세요.",
+            "": ""
         }
     ]
 }
