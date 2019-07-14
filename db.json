@@ -12,38 +12,5 @@
         {
             "Lenovo 불량": "아르바이트 근무자가 Lenovo 노트북 사용하다가 문제가 발생할 경우 재고로 남아있는 Lenovo 노트북으로 교체해주세요~ 만약 없는 경우 경영관리팀에 문의해주세요."
         }
-    ],
-    "wifi": [
-        {
-            "wifi 느림": "잠시만 기다려주시면 해결될테니 양해부탁드려요."
-        },
-        {
-            "wifi 끊김": "잠시만 기다려주시면 해결될테니 양해부탁드려요."
-        },
-        {
-            "인터넷 끈김": "갑자기 인터넷이 끊긴 경우에는 한달에 한번씩 하는 구글인증의 만료일이라 그럴 수 있어요. 크롬에서 danawa.com을 접속해보세요~"
-        }
-    ],
-    "printer": [
-        {
-            "Windows 사용자 공통": "삼성프린터 드라이버를 설치하여 셋팅해주세요. http://www.samsungsetup.com/TS/Client/kr/Install.html"
-        },
-        {
-            "Mac 사용자 공통": "system preference - printer - + - IP 입력"
-        },
-        {
-            "SC 프린터 IP": "x.x.x.x"
-        },
-        {
-            "태화 프린터 IP": "x.x.x.x"
-        }
-    ],
-    "scan": [
-        {
-            "Windows": "Windows + r - \\x.x.x.x 입력 후 엔터!"
-        },
-        {
-            "MAC": "command + k - x.x.x.x 입력 후 엔터! - user 계정 문의 시 guest 클릭"
-        }
     ]
 }
