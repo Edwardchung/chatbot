@@ -2,19 +2,19 @@
     "list": [
         {
             "case": "노트북 문의",
-            "answer": "/laptops"
+            "answer": "/laptops 여기를 눌러주세요."
         },
         {
             "case": "wifi 문의",
-            "answer": "/wifi"
+            "answer": "/wifi 여기를 눌러주세요."
         },
         {
             "case": "vpn 문의",
-            "answer": "/vpn"
+            "answer": "/vpn 여기를 눌러주세요."
         },
         {
             "case": "기타 문의",
-            "answer": "/$$"
+            "answer": "/etc 여기를 눌러주세요."
         }
     ], 
     "laptops": [
@@ -61,6 +61,20 @@
         {
             "case": "ㅁㅁㅁ",
             "answer": "ㅂㅂㅂ"
+        }
+    ],
+    "etc" : [
+        {
+            "case": "ㅎㅎㅎㅎ",
+            "answer": "ㅍㅍㅍㅍ"
+        },
+        {
+            "case": "ㅌㅌㅌㅌ",
+            "answer": "ㅋㅋㅋㅋ"
+        },
+        {
+            "case": "ㅊㅊㅊㅊ",
+            "answer": "ㅈㅈㅈㅈ"
         }
     ]
 }
