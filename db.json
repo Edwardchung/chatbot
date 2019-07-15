@@ -1,4 +1,22 @@
 {
+    "list": [
+        {
+            "case": "노트북 문의",
+            "answer": "/laptops"
+        },
+        {
+            "case": "wifi 문의",
+            "answer": "/wifi"
+        },
+        {
+            "case": "vpn 문의",
+            "answer": "/vpn"
+        },
+        {
+            "case": "기타 문의",
+            "answer": "/$$"
+        }
+    ], 
     "laptops": [
         {
             "case": "aaa",
