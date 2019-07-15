@@ -30,5 +30,19 @@
             "case": "eeee",
             "answer": "fffff"
         }
+    ],
+    "네트워크": [
+        {
+            "case": "ㄱㄱㄱ",
+            "answer": "ㄴㄴㄴ"
+        },
+        {
+            "case": "ㄷㄷㄷ",
+            "answer": "ㄹㄹㄹ"
+        },
+        {
+            "case": "ㅁㅁㅁ",
+            "answer": "ㅂㅂㅂ"
+        }
     ]
 }
